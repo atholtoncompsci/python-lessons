@@ -1,4 +1,5 @@
 #2022.12.20_python-into-lesson.py
+#This lesson assumes the reader has some experience in another language (usually Java) already. 
 
 #this is a comment
 
